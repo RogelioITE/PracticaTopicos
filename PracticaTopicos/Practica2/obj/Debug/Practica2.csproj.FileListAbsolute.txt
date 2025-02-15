@@ -1,0 +1,11 @@
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\bin\Debug\Practica2.exe
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\bin\Debug\Practica2.pdb
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.exe
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.pdb
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.FrmGaleria.resources
+C:\Users\roiy3\Source\Repos\RogelioITE\Practica2\obj\Debug\Practica2.FrmImagen.resources

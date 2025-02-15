@@ -1,0 +1,17 @@
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\bin\Debug\net8.0-windows\PracticaTopicos.exe
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\bin\Debug\net8.0-windows\PracticaTopicos.deps.json
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\bin\Debug\net8.0-windows\PracticaTopicos.runtimeconfig.json
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\bin\Debug\net8.0-windows\PracticaTopicos.dll
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\bin\Debug\net8.0-windows\PracticaTopicos.pdb
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.Form1.resources
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.csproj.GenerateResource.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.AssemblyInfoInputs.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.AssemblyInfo.cs
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.csproj.CoreCompileInputs.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.sourcelink.json
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.dll
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\refint\PracticaTopicos.dll
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.pdb
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\PracticaTopicos.genruntimeconfig.cache
+C:\Users\roiy3\Source\Repos\RogelioITE\PracticaTopicos\obj\Debug\net8.0-windows\ref\PracticaTopicos.dll
